@@ -22,3 +22,10 @@ Es para pasar los archivos del working directory al staging area.
 
 11. ¿Cómo cambiamos de un branch a otro?
 12. Investigue qué es Markdown y responda todas las preguntas anteriores en este lenguaje (con el nombre de archivo RESPUESTAS.md). Súbalo al repositorio.
+
+
+Ejercicio 1:
+Abrir una cuenta en Github / Gitlab.
+Crear un repositorio público.
+Subir el repositorio que hemos creado anteriormente siguiendo el video y que tenga las respuestas del cuestionario.
+Dejar el link del repositorio junto al nombre del alumno. Para ellos habrá un formulario en la plataforma.
