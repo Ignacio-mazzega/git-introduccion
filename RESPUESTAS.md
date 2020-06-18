@@ -35,6 +35,9 @@ Ingresamos a Github, nos vamos a "repositorios" y a la derecha damos click al bo
 
 6. Describa el flujo para agregar un archivo simple al repositorio.
 
+Para agregar un archivo usamos el comando git remote mas el link del repositorio que creamos:
+git remote add origin https://github.com/Ignacio-mazzega/git-introduccion.git
+luego usamos el comando git push -u origin master que lo cargara a Git.
 
 
 7. Describa el flujo para cambiar el archivo agregado y guardar los cambios en el repositorio.
